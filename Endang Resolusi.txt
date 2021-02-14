@@ -3,5 +3,6 @@
 -.membuat blog
 -.fotografi
 -.web development
+-.desain
 -.flatfrom
--. seragam
+-.seragam
