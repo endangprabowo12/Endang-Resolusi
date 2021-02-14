@@ -2,5 +2,5 @@
 -.membuat merch Shop
 -.membuat blog
 -.fotografi
--.videografi
 -.web development
+-.Desain
